@@ -1,6 +1,8 @@
 # Título del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Proyecto Scrapy para obtencion de datos cronologicos referentes al coronavirus a nivel mundial.
+
+Fuente: https://covidatlas.com
 
 ## Comenzando 🚀
 
