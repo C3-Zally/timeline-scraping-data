@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Scrapy - Obtención de datos cronológicos a nivel mundial.
 
 Proyecto Scrapy para obtencion de datos cronologicos referentes al coronavirus a nivel mundial.
 
