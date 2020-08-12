@@ -6,11 +6,31 @@ Fuente: https://covidatlas.com
 
 ## Comenzando 🚀
 
+Crea un **ambiente virtual** con el siguiente comando:
 ```
 python3 -m venv .env
-source .env/bin/activate
-pip install -r requirements.txt
 ```
+
+Activa dicho ambiente virtual e instala las **dependencias** con los siguientes comandos:
+```
+source .env/bin/activate
+pip3 install -r requirements.txt
+```
+
+------------
+
+***(OPCIONAL):***
+Puedes cambiar `DEBUG` a `False` si deseas actualizar los registros existentes.
+
+------------
+
+
+Para **ejecutar** el proyecto simplemente realiza el siguiente comando:
+```
+python3 main.py
+```
+
+En la carpeta `dist` encontraras la data filtrada.
 
 ## Construido con 🛠️
 
